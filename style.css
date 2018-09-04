@@ -42,6 +42,10 @@ tr:nth-child(odd){
   background-color: #CFB53B;
 }
 
+.table-text-size{
+  font-size: 2.5vh;
+}
+
 .text-center {
     text-height: 50%;
     text-align: center;
