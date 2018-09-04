@@ -1,0 +1,82 @@
+#title {
+    background-color: #6495ed;
+    padding: 2vh;
+    color: black;
+    line-height: 2vh;
+    height: 100vh;
+}
+
+#skill-set{
+  background-color: #ffffd2;
+  padding: 2vh;
+  color:black;
+  height: 80vh
+}
+
+th {
+    background-color: #A9A9A9;
+    color: black;
+}
+
+tr:nth-child(even){
+  background-color: #f2f2f2
+}
+
+tr:nth-child(odd){
+  background-color: #FFFFF0;
+}
+
+.custom-button{
+  background-color: #FFDF00;
+  border-radius: 2vh;
+  border-color: #CFB53B;
+  padding: 3vh;
+  font-size: 2vw;
+  text-align: center;
+  cursor: pointer;
+  box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+
+.custom-button:hover{
+  background-color: #CFB53B;
+}
+
+.text-center {
+    text-height: 50%;
+    text-align: center;
+}
+
+.text-title-size{
+  font-size: 7vw;
+}
+
+.muted-text-size{
+  font-size: 2vw;
+}
+
+.text-height{
+    line-height: 0vh;
+}
+
+.button-height{
+    margin-top: 9vh;
+}
+
+.button-spacing{
+  margin-left: 4vh;
+}
+
+.rounded-corners {
+    border-radius: 70%;
+}
+
+.center-block {
+    margin: 0 auto;
+    display: block;
+}
+
+.headshot-sizing{
+  height: 55%;
+  width: 30%;
+}
